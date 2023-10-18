@@ -53,8 +53,8 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '51945463812' //Nomor Bot
-global.nomorown = '51945463812' 
+global.nomorbot = '51902669067' //Nomor Bot
+global.nomorown = '51902669067' 
 
 global.namebot = 'SysSolutions-BOT' //Nama Bot
 global.nameown = 'SysSolutions' // Nama Owner
@@ -66,11 +66,11 @@ global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.o
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['51945463812', 'SysSolutions📡', true] //Replace your number with your name
+  ['51902669067', 'SysSolutions📡', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = ['51945463812'] // Premium user is not here to add it, type .addprem @ user 10
+global.mods = ['51902669067'] // Want some help?
+global.prems = ['51902669067'] // Premium user is not here to add it, type .addprem @ user 10
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.lolkeysapi = ['BrunoSobrino']
@@ -139,7 +139,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+51945463812'
+global.phn = '+51902669067'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
